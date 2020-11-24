@@ -1,0 +1,35 @@
+# site settings
+title: Danny Bochkov
+subtitle: Mixing Engineer
+email: dannybochkov@gmail.com
+description: Recording, Mixing and Mastering Services
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: http://www.dannybochkov.com/
+author:
+street_address: North South Recordings
+city: Banbridge
+state:
+country: Co. Down
+phone: +353 83 843 2520
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/northsouthrecordings
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com/dannybochkov
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
